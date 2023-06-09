@@ -1,0 +1,3 @@
+bucket = "yvesbernadin"
+key = "dev/aws-project3.tfstate"
+region = "us-east-1"
